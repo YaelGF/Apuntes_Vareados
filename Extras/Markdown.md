@@ -1,0 +1,1 @@
+[Mas información](https://www.markdownguide.org/basic-syntax/)
