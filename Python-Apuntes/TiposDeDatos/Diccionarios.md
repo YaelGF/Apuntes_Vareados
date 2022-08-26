@@ -12,4 +12,10 @@ OUT:
 Yael 20
 Arturo 21
 Adrian 26
+``` 
+
+Otra forma de declarar dicionarios puede ser:
+
+```python
+edades = dict(Yael=20,Arturo=21,Adrian=26)
 ```
