@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7de1d0bd11814053",
+        "id": "0300a19ec6912361",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docker-demo.md",
-            "mode": "source"
+            "file": "Python-Apuntes/TiposDeDatos/Conjuntos.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -52,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a8c20b199e30eaf6",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker-demo.md",
+                "file": "Python-Apuntes/TiposDeDatos/Conjuntos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7de1d0bd11814053",
+  "active": "0300a19ec6912361",
   "lastOpenFiles": [
-    "docker-demo.md",
-    "Markdown.md",
-    "SQL-Apuntes/iniciar maria db.md",
-    "SQL-Apuntes/Consultas.md",
-    "SQL-Apuntes/Comandos.md",
-    "Python-Apuntes/Tipos de datos/Conjuntos.md",
+    "Python-Apuntes/TiposDeDatos/Strings.md",
+    "Print.md",
+    "Python-Apuntes/TiposDeDatos/Colas.md",
+    "Python-Apuntes/TiposDeDatos/Conjuntos.md",
+    "Python-Apuntes/TiposDeDatos/Diccionarios.md",
+    "Python-Apuntes/TiposDeDatos/Pilas.md",
+    "Python-Apuntes/TiposDeDatos/Range.md",
+    "Python-Apuntes/TiposDeDatos/OperadoresTernarios.md",
     "Python-Apuntes/Formato/F-Strings.md",
-    "Python-Apuntes/Extras/Operadores-Asignacion.md",
-    "Python-Apuntes/Extras/Expresiones-Anidadas.md",
-    "Python-Apuntes/Extras/Argumentos y parametros indeterminados.md"
+    "Python-Apuntes/Formato/Format.md"
   ]
 }

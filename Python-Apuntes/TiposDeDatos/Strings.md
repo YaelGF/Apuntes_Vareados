@@ -28,7 +28,7 @@ El slicing es una capacidad de las cadenas que devuelven un subconjunto o subcad
 
 ```python
 palabra = "Python"
-print(palabra[0:-1:2])
+print(palabra[0:-1:2]) == print(palabra[::2])
 ```
 
 OUT:
