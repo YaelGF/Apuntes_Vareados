@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python-Apuntes/TiposDeDatos/Conjuntos.md",
+            "file": "Python-Apuntes/Formato/F-Strings.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python-Apuntes/TiposDeDatos/Conjuntos.md",
+                "file": "Python-Apuntes/Formato/F-Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,13 +90,13 @@
   "active": "0300a19ec6912361",
   "lastOpenFiles": [
     "Python-Apuntes/TiposDeDatos/Strings.md",
+    "Python-Apuntes/TiposDeDatos/OperadoresTernarios.md",
+    "Python-Apuntes/TiposDeDatos/Conjuntos.md",
     "Print.md",
     "Python-Apuntes/TiposDeDatos/Colas.md",
-    "Python-Apuntes/TiposDeDatos/Conjuntos.md",
     "Python-Apuntes/TiposDeDatos/Diccionarios.md",
     "Python-Apuntes/TiposDeDatos/Pilas.md",
     "Python-Apuntes/TiposDeDatos/Range.md",
-    "Python-Apuntes/TiposDeDatos/OperadoresTernarios.md",
     "Python-Apuntes/Formato/F-Strings.md",
     "Python-Apuntes/Formato/Format.md"
   ]
